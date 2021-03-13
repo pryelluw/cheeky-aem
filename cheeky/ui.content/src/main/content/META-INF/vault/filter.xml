@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/cheeky" mode="merge"/>
+    <filter root="/content/cheeky" mode="merge"/>
+    <filter root="/content/dam/cheeky" mode="merge"/>
+    <filter root="/content/experience-fragments/cheeky" mode="merge"/>
+</workspaceFilter>
